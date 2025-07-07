@@ -1,0 +1,17 @@
+{
+  "name": "crickroom-main",
+  "version": "1.0.0",
+  "description": "CrickRoom lets you create and join rooms, take turns selecting cricket players in real-time, and build your dream team with friends. 🎮⚡",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
